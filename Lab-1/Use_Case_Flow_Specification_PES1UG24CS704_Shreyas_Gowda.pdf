@@ -1,0 +1,69 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 3167 >>
+stream
+BT /F1 16 Tf 175 760 Td (USE-CASE FLOW SPECIFICATION) Tj ET
+BT /F1 13 Tf 185 738 Td (Student Startup Crowdfunding Platform) Tj ET
+BT /F1 9 Tf 45 714 Td (Username / USN  PES1UG24CS704    Student Name  Shreyas Gowda) Tj ET
+BT /F1 9 Tf 45 694 Td (Use Case  UC-03 - Make Pledge    Primary Actor  Campaign Backer) Tj ET
+BT /F1 10 Tf 45 670 Td (1. Preconditions) Tj ET
+BT /F1 8 Tf 58 655 Td (- A published crowdfunding campaign exists and is available to the Campaign Backer.) Tj ET
+BT /F1 8 Tf 58 643 Td (- At least one reward tier is available for the selected campaign.) Tj ET
+BT /F1 8 Tf 58 631 Td (- The Campaign Backer has selected an active campaign.) Tj ET
+BT /F1 8 Tf 58 619 Td (- The payment gateway is available for processing the pledge.) Tj ET
+BT /F1 10 Tf 45 602 Td (2. Postconditions) Tj ET
+BT /F1 8 Tf 58 587 Td (- Success: The pledge is recorded, the selected reward tier is associated with the pledge,) Tj ET
+BT /F1 8 Tf 66 577 Td (payment is authorized, and campaign funding progress is updated.) Tj ET
+BT /F1 8 Tf 58 565 Td (- Failure: No successful pledge is recorded and the Campaign Backer is informed that payment) Tj ET
+BT /F1 8 Tf 66 555 Td (failed.) Tj ET
+BT /F1 10 Tf 45 538 Td (3. Main Success Scenario) Tj ET
+BT /F1 8 Tf 58 523 Td (1. Campaign Backer selects a published crowdfunding campaign.) Tj ET
+BT /F1 8 Tf 58 511 Td (2. System displays campaign details, funding target, current funding progress, and) Tj ET
+BT /F1 8 Tf 66 501 Td (available reward tiers.) Tj ET
+BT /F1 8 Tf 58 489 Td (3. Campaign Backer selects a reward tier.) Tj ET
+BT /F1 8 Tf 58 477 Td (4. Campaign Backer enters the amount to pledge.) Tj ET
+BT /F1 8 Tf 58 465 Td (5. System validates the pledge amount and selected reward tier.) Tj ET
+BT /F1 8 Tf 58 453 Td (6. System displays the pledge summary and selected reward tier.) Tj ET
+BT /F1 8 Tf 58 441 Td (7. Campaign Backer confirms the pledge.) Tj ET
+BT /F1 8 Tf 58 429 Td (8. System sends the payment authorization request to the Payment Gateway.) Tj ET
+BT /F1 8 Tf 58 417 Td (9. Payment Gateway authorizes the payment.) Tj ET
+BT /F1 8 Tf 58 405 Td (10. System records the pledge and selected reward tier.) Tj ET
+BT /F1 8 Tf 58 393 Td (11. System updates the campaign's funding progress.) Tj ET
+BT /F1 8 Tf 58 381 Td (12. System displays a pledge confirmation to the Campaign Backer.) Tj ET
+BT /F1 8 Tf 58 369 Td (13. Use case ends successfully.) Tj ET
+BT /F1 10 Tf 45 352 Td (4. Alternate Flow - Payment Declined) Tj ET
+BT /F1 8 Tf 58 337 Td (8a. Payment Gateway rejects the payment authorization.) Tj ET
+BT /F1 8 Tf 58 325 Td (8a1. System displays a payment failure message.) Tj ET
+BT /F1 8 Tf 58 313 Td (8a2. System asks the Campaign Backer to retry or choose another payment method.) Tj ET
+BT /F1 8 Tf 58 301 Td (8a3. Campaign Backer retries the payment.) Tj ET
+BT /F1 8 Tf 58 289 Td (8a4. If payment succeeds, the system records the pledge and resumes at Step 10.) Tj ET
+BT /F1 8 Tf 58 277 Td (8a5. If payment fails again, the system cancels the pledge attempt and informs the) Tj ET
+BT /F1 8 Tf 66 267 Td (Campaign Backer.) Tj ET
+BT /F1 8 Tf 45 28 Td (Problem Statement #40 | Retail, E-Commerce & Finance) Tj ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+3530
+%%EOF
