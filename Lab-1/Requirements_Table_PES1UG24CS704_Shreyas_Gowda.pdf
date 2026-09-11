@@ -1,0 +1,180 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 7691 >>
+stream
+BT /F1 16 Tf 250 580 Td (LAB 1 - REQUIREMENTS TABLE) Tj ET
+BT /F1 13 Tf 255 558 Td (Student Startup Crowdfunding Platform) Tj ET
+BT /F1 9 Tf 55 535 Td (Username / USN) Tj ET
+BT /F1 9 Tf 180 535 Td (PES1UG24CS704) Tj ET
+BT /F1 9 Tf 55 520 Td (Student Name) Tj ET
+BT /F1 9 Tf 180 520 Td (Shreyas Gowda) Tj ET
+BT /F1 9 Tf 55 505 Td (Problem Statement) Tj ET
+BT /F1 9 Tf 180 505 Td (Problem Statement #40 - Student Startup Crowdfunding Platform) Tj ET
+45 485 m 785 485 l S
+45 460 m 785 460 l S
+45 396 m 785 396 l S
+45 332 m 785 332 l S
+45 278 m 785 278 l S
+45 218 m 785 218 l S
+45 160 m 785 160 l S
+45 96 m 785 96 l S
+45 42 m 785 42 l S
+45 485 m 45 42 l S
+95 485 m 95 42 l S
+170 485 m 170 42 l S
+440 485 m 440 42 l S
+490 485 m 490 42 l S
+650 485 m 650 42 l S
+785 485 m 785 42 l S
+BT /F1 7.5 Tf 48 469 Td (Req ID) Tj ET
+BT /F1 7.5 Tf 98 469 Td (Type) Tj ET
+BT /F1 7.5 Tf 173 469 Td (Description) Tj ET
+BT /F1 7.5 Tf 443 469 Td (Priority) Tj ET
+BT /F1 7.5 Tf 493 469 Td (Acceptance Criteria) Tj ET
+BT /F1 7.5 Tf 653 469 Td (Rationale) Tj ET
+BT /F1 6.2 Tf 47 450 Td (FR-001) Tj ET
+BT /F1 6.2 Tf 97 450 Td (Functional) Tj ET
+BT /F1 6.2 Tf 172 450 Td (The system shall collect backer pledges) Tj ET
+BT /F1 6.2 Tf 172 442.5 Td (and disburse funds to the student venture) Tj ET
+BT /F1 6.2 Tf 172 435.0 Td (in tranches only upon verification of) Tj ET
+BT /F1 6.2 Tf 172 427.5 Td (predetermined project milestones.) Tj ET
+BT /F1 6.2 Tf 442 450 Td (High) Tj ET
+BT /F1 6.2 Tf 492 450 Td (Pass: Milestone evidence is) Tj ET
+BT /F1 6.2 Tf 492 442.5 Td (reviewed and the) Tj ET
+BT /F1 6.2 Tf 492 435.0 Td (appropriate tranche is) Tj ET
+BT /F1 6.2 Tf 492 427.5 Td (released. Fail: Campaign) Tj ET
+BT /F1 6.2 Tf 492 420.0 Td (funds are disbursed without) Tj ET
+BT /F1 6.2 Tf 492 412.5 Td (milestone sign-off.) Tj ET
+BT /F1 6.2 Tf 652 450 Td (Ensures funds are) Tj ET
+BT /F1 6.2 Tf 652 442.5 Td (released only when) Tj ET
+BT /F1 6.2 Tf 652 435.0 Td (project milestones are) Tj ET
+BT /F1 6.2 Tf 652 427.5 Td (verified.) Tj ET
+BT /F1 6.2 Tf 47 386 Td (FR-002) Tj ET
+BT /F1 6.2 Tf 97 386 Td (Functional) Tj ET
+BT /F1 6.2 Tf 172 386 Td (The system shall allow a Student Founder) Tj ET
+BT /F1 6.2 Tf 172 378.5 Td (to create and publish a crowdfunding) Tj ET
+BT /F1 6.2 Tf 172 371.0 Td (campaign with a funding target, project) Tj ET
+BT /F1 6.2 Tf 172 363.5 Td (description, milestones and reward tiers.) Tj ET
+BT /F1 6.2 Tf 442 386 Td (High) Tj ET
+BT /F1 6.2 Tf 492 386 Td (Pass: A campaign is) Tj ET
+BT /F1 6.2 Tf 492 378.5 Td (published only when all) Tj ET
+BT /F1 6.2 Tf 492 371.0 Td (mandatory campaign details,) Tj ET
+BT /F1 6.2 Tf 492 363.5 Td (at least one milestone and) Tj ET
+BT /F1 6.2 Tf 492 356.0 Td (one reward tier are) Tj ET
+BT /F1 6.2 Tf 492 348.5 Td (provided. Fail: A campaign) Tj ET
+BT /F1 6.2 Tf 492 341.0 Td (is published with missing) Tj ET
+BT /F1 6.2 Tf 652 386 Td (Provides founders with) Tj ET
+BT /F1 6.2 Tf 652 378.5 Td (the core functionality) Tj ET
+BT /F1 6.2 Tf 652 371.0 Td (to raise funds for) Tj ET
+BT /F1 6.2 Tf 652 363.5 Td (their ventures.) Tj ET
+BT /F1 6.2 Tf 47 322 Td (FR-003) Tj ET
+BT /F1 6.2 Tf 97 322 Td (Functional) Tj ET
+BT /F1 6.2 Tf 172 322 Td (The system shall allow a Campaign Backer) Tj ET
+BT /F1 6.2 Tf 172 314.5 Td (to select a reward tier when making a) Tj ET
+BT /F1 6.2 Tf 172 307.0 Td (pledge to a campaign.) Tj ET
+BT /F1 6.2 Tf 442 322 Td (High) Tj ET
+BT /F1 6.2 Tf 492 322 Td (Pass: The selected reward) Tj ET
+BT /F1 6.2 Tf 492 314.5 Td (tier is displayed with the) Tj ET
+BT /F1 6.2 Tf 492 307.0 Td (pledge before payment) Tj ET
+BT /F1 6.2 Tf 492 299.5 Td (confirmation. Fail: A) Tj ET
+BT /F1 6.2 Tf 492 292.0 Td (pledge is confirmed without) Tj ET
+BT /F1 6.2 Tf 652 322 Td (Supports the) Tj ET
+BT /F1 6.2 Tf 652 314.5 Td (reward-tier selection) Tj ET
+BT /F1 6.2 Tf 652 307.0 Td (functionality) Tj ET
+BT /F1 6.2 Tf 652 299.5 Td (described in the) Tj ET
+BT /F1 6.2 Tf 652 292.0 Td (scenario.) Tj ET
+BT /F1 6.2 Tf 47 268 Td (FR-004) Tj ET
+BT /F1 6.2 Tf 97 268 Td (Functional) Tj ET
+BT /F1 6.2 Tf 172 268 Td (The system shall allow the Faculty) Tj ET
+BT /F1 6.2 Tf 172 260.5 Td (Committee to review submitted milestone) Tj ET
+BT /F1 6.2 Tf 172 253.0 Td (evidence and approve or reject a) Tj ET
+BT /F1 6.2 Tf 172 245.5 Td (milestone.) Tj ET
+BT /F1 6.2 Tf 442 268 Td (High) Tj ET
+BT /F1 6.2 Tf 492 268 Td (Pass: The system records) Tj ET
+BT /F1 6.2 Tf 492 260.5 Td (the committee's approval or) Tj ET
+BT /F1 6.2 Tf 492 253.0 Td (rejection decision and) Tj ET
+BT /F1 6.2 Tf 492 245.5 Td (timestamp. Fail: A) Tj ET
+BT /F1 6.2 Tf 492 238.0 Td (milestone status changes) Tj ET
+BT /F1 6.2 Tf 492 230.5 Td (without a recorded) Tj ET
+BT /F1 6.2 Tf 652 268 Td (Provides the faculty) Tj ET
+BT /F1 6.2 Tf 652 260.5 Td (verification required) Tj ET
+BT /F1 6.2 Tf 652 253.0 Td (before milestone-based) Tj ET
+BT /F1 6.2 Tf 652 245.5 Td (fund releases.) Tj ET
+BT /F1 6.2 Tf 47 208 Td (FR-005) Tj ET
+BT /F1 6.2 Tf 97 208 Td (Functional) Tj ET
+BT /F1 6.2 Tf 172 208 Td (The system shall allow Student Founders) Tj ET
+BT /F1 6.2 Tf 172 200.5 Td (and Campaign Backers to view campaign) Tj ET
+BT /F1 6.2 Tf 172 193.0 Td (funding progress and milestone status.) Tj ET
+BT /F1 6.2 Tf 442 208 Td (Medium) Tj ET
+BT /F1 6.2 Tf 492 208 Td (Pass: The system displays) Tj ET
+BT /F1 6.2 Tf 492 200.5 Td (the current pledged amount,) Tj ET
+BT /F1 6.2 Tf 492 193.0 Td (funding target and status) Tj ET
+BT /F1 6.2 Tf 492 185.5 Td (of each milestone. Fail:) Tj ET
+BT /F1 6.2 Tf 492 178.0 Td (Any required progress) Tj ET
+BT /F1 6.2 Tf 492 170.5 Td (detail is unavailable.) Tj ET
+BT /F1 6.2 Tf 652 208 Td (Provides transparency) Tj ET
+BT /F1 6.2 Tf 652 200.5 Td (about campaign) Tj ET
+BT /F1 6.2 Tf 652 193.0 Td (progress and milestone) Tj ET
+BT /F1 6.2 Tf 652 185.5 Td (status.) Tj ET
+BT /F1 6.2 Tf 47 150 Td (NFR-001) Tj ET
+BT /F1 6.2 Tf 97 150 Td (Non-Functional) Tj ET
+BT /F1 6.2 Tf 97 142.5 Td (- Performance &) Tj ET
+BT /F1 6.2 Tf 97 135.0 Td (Security) Tj ET
+BT /F1 6.2 Tf 172 150 Td (The payment processing gateway shall) Tj ET
+BT /F1 6.2 Tf 172 142.5 Td (comply with PCI-DSS guidelines and use) Tj ET
+BT /F1 6.2 Tf 172 135.0 Td (tokenized payment authorizations.) Tj ET
+BT /F1 6.2 Tf 442 150 Td (High) Tj ET
+BT /F1 6.2 Tf 492 150 Td (Pass: Security testing) Tj ET
+BT /F1 6.2 Tf 492 142.5 Td (confirms PCI-DSS compliance) Tj ET
+BT /F1 6.2 Tf 492 135.0 Td (and payment authorization) Tj ET
+BT /F1 6.2 Tf 492 127.5 Td (uses tokens instead of) Tj ET
+BT /F1 6.2 Tf 492 120.0 Td (storing raw card details.) Tj ET
+BT /F1 6.2 Tf 492 112.5 Td (Fail: Raw card details are) Tj ET
+BT /F1 6.2 Tf 492 105.0 Td (stored or required security) Tj ET
+BT /F1 6.2 Tf 652 150 Td (Protects backers') Tj ET
+BT /F1 6.2 Tf 652 142.5 Td (payment information) Tj ET
+BT /F1 6.2 Tf 652 135.0 Td (and reduces payment) Tj ET
+BT /F1 6.2 Tf 652 127.5 Td (security risks.) Tj ET
+BT /F1 6.2 Tf 47 86 Td (NFR-002) Tj ET
+BT /F1 6.2 Tf 97 86 Td (Non-Functional) Tj ET
+BT /F1 6.2 Tf 97 78.5 Td (- Availability) Tj ET
+BT /F1 6.2 Tf 172 86 Td (The system shall maintain at least 99%) Tj ET
+BT /F1 6.2 Tf 172 78.5 Td (monthly availability, excluding scheduled) Tj ET
+BT /F1 6.2 Tf 172 71.0 Td (maintenance.) Tj ET
+BT /F1 6.2 Tf 442 86 Td (Medium) Tj ET
+BT /F1 6.2 Tf 492 86 Td (Pass: Monthly monitoring) Tj ET
+BT /F1 6.2 Tf 492 78.5 Td (shows availability of at) Tj ET
+BT /F1 6.2 Tf 492 71.0 Td (least 99%. Fail:) Tj ET
+BT /F1 6.2 Tf 492 63.5 Td (Availability falls below) Tj ET
+BT /F1 6.2 Tf 492 56.0 Td (99%.) Tj ET
+BT /F1 6.2 Tf 652 86 Td (Ensures founders and) Tj ET
+BT /F1 6.2 Tf 652 78.5 Td (backers can reliably) Tj ET
+BT /F1 6.2 Tf 652 71.0 Td (access campaigns and) Tj ET
+BT /F1 6.2 Tf 652 63.5 Td (funding information.) Tj ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+8054
+%%EOF
